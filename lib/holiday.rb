@@ -74,7 +74,6 @@ def all_holidays_with_bbq(holiday_hash)
   # include the string "BBQ"
   arr = []
   holiday_hash.each do |season, holiday|
-          binding.pry 
     if holiday.value?("BBQ")
       arr << holiday 
     end 
