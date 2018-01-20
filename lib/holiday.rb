@@ -78,9 +78,10 @@ def all_holidays_with_bbq(holiday_hash)
     if value.include?("BBQ")
       array << key 
     end 
-    return array 
+
     end 
     end 
+        return array 
 end
 
 
