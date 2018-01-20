@@ -77,7 +77,6 @@ def all_holidays_with_bbq(holiday_hash)
       arr = []
     if value.include?("BBQ")
      key 
-      arr 
     end 
     end 
     end 
