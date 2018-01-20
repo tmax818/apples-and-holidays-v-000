@@ -78,6 +78,7 @@ def all_holidays_with_bbq(holiday_hash)
     if value.each {|x| x == "BBQ"}
       arr << holiday 
     end 
+    end 
     arr 
     end 
 end
