@@ -79,8 +79,6 @@ def all_holidays_with_bbq(holiday_hash)
       arr << key  
     end 
     end 
-    arr 
-    end 
 end
 
 
